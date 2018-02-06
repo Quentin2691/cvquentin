@@ -1,0 +1,60 @@
+ body{
+    background-color: white;
+     width: 50%;
+}
+ button{
+     margin-bottom: 7%;
+     border-top-color: black;
+ }
+h1{
+   
+    font-size: 100 px;
+    float: right;
+
+}
+img{
+    border-radius: 200px;
+}
+
+div.img{
+    size: 100px;
+}
+
+.navbar-fixed-top {
+  
+    position: relative;
+    right: 100 px;
+    left: 100 px;
+    
+}
+.navbar {
+  
+    position: absolute;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+i{
+    float: right;
+    border-radius: 50px;
+}
+.row {
+    background-color: beige;
+    text-align: center;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+.réseau sociaux{
+    background-color: black;
+    border-radius: 50%;
+}
+.input-field{
+    border-color: blue;
+}
+
+nom {
+    color:black;
+    font-weight:bold;
+    font-style:italic;
+}
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css" ?>
+<personnes>
+    <personne>
+        <nom>NORRIS</nom>
+        <prenom>Chuck</prenom>
+    </personne>
+
+    <personne>
+        <nom>DUPONT</nom>
+        <prenom>Marie</prenom>
+    </personne>
+</personnes>
